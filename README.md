@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anna
-- 🌱 I’m currently learning how to code in R and SQL
+- 🌱 I’m currently learning how to code in Python, R and SQL
 
 
 <!---
