@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anna  
 - 🌱 I’m currently studying at Open University of Metropolia (ICT online studies)
 - 🌍 Location: Finland, Kotka
-- 📫 [LinekedIn](https://www.linkedin.com/in/anna-roman-48167a13a/)  
+- 📫 [LinkedIn](https://www.linkedin.com/in/anna-roman-48167a13a/)  
 - 👩 Human languages: English, Finnish, Russian
 - 💻 Programming languages: Python, R, SQL
 
