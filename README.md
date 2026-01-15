@@ -3,9 +3,9 @@
 - 🌍 Location: Finland, Kotka
 - 📫 [LinkedIn](https://www.linkedin.com/in/anna-roman-48167a13a/)  
 - 👩 Human languages: English, Finnish, Russian
-- 💻 Programming languages: Python, R, SQL
+- 💻 Programming languages: Python, R, SQL, C#  
 
-I'm striving to become a Data Analyst and than later a Data Engineer. Here a some **projects** I have done:
+Here a some **projects** I have done:
 
 - [SQL_data_analysis](https://github.com/Anna-Roman/SQL_data_analysis)
 - [Small Portfolio Projects](https://github.com/Anna-Roman/PortfolioProjects):
