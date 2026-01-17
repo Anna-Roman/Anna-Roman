@@ -8,7 +8,8 @@
 Here a some **projects** I have done:
 
 - [SQL_data_analysis](https://github.com/Anna-Roman/SQL_data_analysis)
-- [Small Portfolio Projects](https://github.com/Anna-Roman/PortfolioProjects):
+- [Small and Random Projects](https://github.com/Anna-Roman/PortfolioProjects):
+  * [Learning OOP with C#](https://github.com/Anna-Roman/lerning_oop_with_c_sharp)  
   * [Data Cleaning with Pandas](https://github.com/Anna-Roman/PortfolioProjects/blob/main/Data_Cleaning_in_Pandas.ipynb)
   * [Exploratory data analysis with Pandas](https://github.com/Anna-Roman/PortfolioProjects/blob/main/Exploratory_Data_Analysis_in_Pandas.ipynb)
   * [Scraping Data From Wikipedia](https://github.com/Anna-Roman/PortfolioProjects/blob/main/Scraping_from_Wiki_and_%20explore.ipynb) and more.
