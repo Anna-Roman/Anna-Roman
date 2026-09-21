@@ -1,15 +1,16 @@
 - 👋 Hi, I’m Anna  
-- 🌱 I’m currently studying at Open University of Metropolia (ICT online studies)
+- 🌱 I’m currently studying at University of Metropolia (Information Technology, Bachelor's Degree)
 - 🌍 Location: Finland, Kotka
 - 📫 [LinkedIn](https://www.linkedin.com/in/anna-roman-48167a13a/)  
 - 👩 Human languages: English, Finnish, Russian
-- 💻 Programming languages: Python, R, SQL, C#  
+- 💻 Programming languages: Python, SQL, C#  
 
 Here a some **projects** I have done:
 
+- [Calculator (Learning C#)](https://github.com/Anna-Roman/Calculator)  
+- [Learning OOP with C#](https://github.com/Anna-Roman/lerning_oop_with_c_sharp)  
 - [SQL_data_analysis](https://github.com/Anna-Roman/SQL_data_analysis)
 - [Small and Random Projects](https://github.com/Anna-Roman/PortfolioProjects):
-  * [Learning OOP with C#](https://github.com/Anna-Roman/lerning_oop_with_c_sharp)  
   * [Data Cleaning with Pandas](https://github.com/Anna-Roman/PortfolioProjects/blob/main/Data_Cleaning_in_Pandas.ipynb)
   * [Exploratory data analysis with Pandas](https://github.com/Anna-Roman/PortfolioProjects/blob/main/Exploratory_Data_Analysis_in_Pandas.ipynb)
   * [Scraping Data From Wikipedia](https://github.com/Anna-Roman/PortfolioProjects/blob/main/Scraping_from_Wiki_and_%20explore.ipynb) and more.
