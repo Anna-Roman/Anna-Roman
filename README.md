@@ -7,8 +7,8 @@
 
 Here a some **projects** I have done:
 
-- [Calculator (Learning C#)](https://github.com/Anna-Roman/Calculator)  
-  
+- [Calculator (C#)](https://github.com/Anna-Roman/Calculator)  
+- [Typing Game (C#)](https://github.com/Anna-Roman/Typing_Game)  
 - [SQL_data_analysis](https://github.com/Anna-Roman/SQL_data_analysis)
 - [Small and Random Projects](https://github.com/Anna-Roman/PortfolioProjects):
   * [Data Cleaning with Pandas](https://github.com/Anna-Roman/PortfolioProjects/blob/main/Data_Cleaning_in_Pandas.ipynb)
